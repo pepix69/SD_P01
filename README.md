@@ -3,6 +3,7 @@ Práctica 1 de Sistemas Distribuidos: Creación de una API para gestionar datos 
 tienda en línea utilizando MongoDB.
 
 Integrantes: 
+Giovanna Inosuli Campos Flores
 José Ángel Montoya Zúñiga
 Yavé Emmanuel Vargas Márquez
 Rodrigo Olmos Gómez
